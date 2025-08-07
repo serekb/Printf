@@ -1,0 +1,2 @@
+ - In this project we were supposed to write the "printf" function in C manually using using "putchar" for printing
+ - There was a blueprint created by our professor but we had to write the implementation
